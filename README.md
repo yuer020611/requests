@@ -3,7 +3,7 @@ how to use it?
 only a few steps
 
 
-cd request
+cd requests
 
 python setup.py install
 
